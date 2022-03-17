@@ -101,7 +101,7 @@ def main(command_line=None):
         "--name",
         action="store",
         required=True,
-        help="The worker`s name"
+        help="The product`s name"
     )
     add.add_argument(
         "-s",
