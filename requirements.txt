@@ -1,0 +1,4 @@
+certifi==2021.10.8
+click @ file:///C:/ci/click_1646038595831/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+wincertstore==0.2
