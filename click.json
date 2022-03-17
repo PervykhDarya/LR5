@@ -1,0 +1,12 @@
+[
+    {
+        "name": "apple",
+        "shop": "seveneleven",
+        "cost": "55"
+    },
+    {
+        "name": "mango",
+        "shop": "try",
+        "cost": "55"
+    }
+]
